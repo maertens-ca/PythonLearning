@@ -1,7 +1,7 @@
-# This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#Last watched Timestamp of: https://www.youtube.com/watch?v=rfscVS0vtbw
+timestamp = "38:00"
+
 
 
 def print_Hello(name):
@@ -13,4 +13,4 @@ def print_Hello(name):
 if __name__ == '__main__':
     print_Hello('World!')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
